@@ -8,6 +8,7 @@
     - 네이버 걔발자 계정(단축 url)
     - 상점앱 및 사용자앱 이름 정의하기
     - firebase 계정 만둘기(push 메세지용)
+    - <span style="color:blue">안드로이드,ios 개발자 개정 접속시 본인확인해야함(핸드폰)</span>
 
 ## 작업 정리
 
@@ -37,23 +38,23 @@
     - ~~주문 목록 페이지 구성~~
     - ~~주문 처리 기능 구성~~
     - 사용자가 주문시 노티 표시 해야함 
-    - <span style="color:blue">
+    - <span style="color:blue">상태정보 정리</span>
 | 상태       |     사용자앱    |  상점앱 |
 |---------- |:-------------:|------:|
 | A         |  준비중         | 준비중 |
 | B         |  완료          |   완료 |
 | Z         |  취소          |   취소 | 
-</span>
+
 
 
 5. 기존데이타베이스
     - 상점테이블에 fcmId 필드추가(상점앱에 노티용)
     - 주문테이블에 결과 처리 필드 추가( 가칭 요청/ 완료)
-    - <span style="color:blue">상태정보</span>
+
 
 6. 기존웹서버 
     - 사용자가 주문시에 상점앱에 노티보내기 위해 api call 하는 기능 추가 
-
+    - <span style="color:blue">상태변경시 노티 발송</span>
 7. 네이버 단축 url 연동
     - https://api.ncloud-docs.com/docs/ai-naver-nshorturl 
     
