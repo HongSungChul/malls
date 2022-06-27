@@ -5,6 +5,9 @@
 3.  비콘 shortUrl때문에 http://checkpin.kr/g/상점코드?psq=? 을
   
     상점 홈 으로 (http://checkpin.kr/store.php?seller_id=test1 ) 이동
+    
+4. 푸시보내는 관리자 페이지 
+  http://3.39.109.101/push
 
 
 
