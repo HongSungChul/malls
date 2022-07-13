@@ -37,3 +37,22 @@
   - psq 값은 회원 가입시 회원테이블에 저장해야함
   
  
+ 
+ 1.솔루션 관리자모드
+http://checkpin.kr/_pzn/sys/admin
+관리자 아이디 : admin
+관리자 패스워드 : 1234
+
+2.pg 관리자모드 접속정보
+https://agenttest.payjoa.co.kr
+
+아이디 : CTS17480
+패스워드 : TS10463117$
+
+3.애플계정
+monstore31@gmail.com 
+패스워드는 Jfgv1996!
+
+4.구글(안드로이드)
+monstore31@gmail.com
+master77@
